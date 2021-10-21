@@ -1,0 +1,15 @@
+.main button {
+  justify-content: flex-end;
+}
+
+.main input {
+  display: flex;
+}
+
+.upper {
+  display: flex;
+  border-radius: 10px;
+  width: 100%;
+  justify-content: space-evenly;
+  padding: 0.5rem;
+}
